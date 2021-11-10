@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+  padding: 24px;
+}
+.margin8{
+  display: flex;
+  margin: 8px;
+}
+
+.margin10 {
+  margin: 10px;
+}
+
+.displayFlex{
+  display: flex;
+}
+.alignCenter{
+  align-items: center;
+}
+.marginAuto{
+  margin:auto;
+}
+.width100{
+  width:100%;
+}
+
+
+.user-details{
+  text-align: center;
+}
+
+/* input {
+  width: 250px;
+  height: 40px;
+} */
+
+
+tbody tr:hover {
+  background-color: rgb(114, 196, 235);
+  cursor : pointer
+}
+
+.MuiAccordionSummary-root{
+  background: lightblue;
+}
+
+
+.pure-form-aligned .pure-control-group label {
+  display: inline-block;
+  vertical-align: middle;
+  width: 10em;
+  margin: 0 1em 0 0;
+}

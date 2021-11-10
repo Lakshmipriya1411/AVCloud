@@ -1,0 +1,69 @@
+[2021-05-01T22:49:36.100] [INFO] request - get events list
+[2021-05-01T22:49:36.108] [INFO] response - events list : [object Object],[object Object],[object Object]
+[2021-05-01T23:17:48.189] [INFO] request - get events list
+[2021-05-01T23:17:48.195] [INFO] response - events list : [object Object],[object Object],[object Object]
+[2021-05-01T23:17:52.807] [INFO] request - get venue list
+[2021-05-01T23:17:52.813] [INFO] response - get venue list success: [object Object],[object Object]
+[2021-05-01T23:18:25.028] [INFO] request - create new event
+[2021-05-01T23:18:25.038] [ERROR] request - create new event error ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: '' for column 'organized_by' at row 1
+[2021-05-01T23:18:27.706] [INFO] request - create new event
+[2021-05-01T23:22:43.219] [INFO] request - get events list
+[2021-05-01T23:22:43.225] [INFO] response - events list : [object Object],[object Object],[object Object],[object Object]
+[2021-05-01T23:22:44.330] [INFO] request - get venue list
+[2021-05-01T23:22:44.331] [INFO] response - get venue list success: [object Object],[object Object]
+[2021-05-01T23:23:44.978] [INFO] request - create new event
+[2021-05-01T23:23:44.981] [ERROR] request - create new event error ER_NO_DEFAULT_FOR_FIELD: Field 'organized_by' doesn't have a default value
+[2021-05-01T23:23:54.360] [INFO] request - create new event
+[2021-05-01T23:23:54.362] [ERROR] request - create new event error ER_NO_DEFAULT_FOR_FIELD: Field 'organized_by' doesn't have a default value
+[2021-05-01T23:24:48.627] [INFO] request - create new event
+[2021-05-01T23:24:48.629] [ERROR] request - create new event error ER_NO_DEFAULT_FOR_FIELD: Field 'organized_by' doesn't have a default value
+[2021-05-01T23:27:33.307] [INFO] request - get venue list
+[2021-05-01T23:27:33.309] [INFO] response - get venue list success: [object Object],[object Object]
+[2021-05-01T23:27:45.778] [INFO] request - create new event
+[2021-05-01T23:27:45.780] [ERROR] request - create new event error ER_NO_DEFAULT_FOR_FIELD: Field 'organized_by' doesn't have a default value
+[2021-05-01T23:31:03.099] [INFO] request - get events list
+[2021-05-01T23:31:03.103] [INFO] response - events list : [object Object],[object Object],[object Object],[object Object]
+[2021-05-01T23:31:04.618] [INFO] request - get venue list
+[2021-05-01T23:31:04.620] [INFO] response - get venue list success: [object Object],[object Object]
+[2021-05-01T23:31:18.220] [INFO] request - create new event
+[2021-05-01T23:31:18.227] [ERROR] request - create new event error ER_NO_DEFAULT_FOR_FIELD: Field 'organized_by' doesn't have a default value
+[2021-05-01T23:36:33.482] [INFO] request - create new event
+[2021-05-01T23:36:33.490] [ERROR] request - create new event error ER_NO_DEFAULT_FOR_FIELD: Field 'organized_by' doesn't have a default value
+[2021-05-01T23:36:36.684] [INFO] request - get events list
+[2021-05-01T23:36:36.686] [INFO] response - events list : [object Object],[object Object],[object Object],[object Object]
+[2021-05-01T23:36:45.426] [INFO] request - read event with id: 1002
+[2021-05-01T23:36:45.428] [INFO] response - read event success: [object Object]
+[2021-05-01T23:36:49.291] [INFO] request - get venue list
+[2021-05-01T23:36:49.293] [INFO] response - get venue list success: [object Object],[object Object]
+[2021-05-01T23:36:55.696] [INFO] request - update event
+[2021-05-01T23:36:55.720] [INFO] response - update event success: [object Object]
+[2021-05-01T23:36:55.816] [INFO] request - get events list
+[2021-05-01T23:36:55.824] [INFO] response - events list : [object Object],[object Object],[object Object],[object Object]
+[2021-05-01T23:36:56.309] [INFO] request - read event with id: 1002
+[2021-05-01T23:36:56.315] [INFO] response - read event success: [object Object]
+[2021-05-01T23:37:05.538] [INFO] request - get events list
+[2021-05-01T23:37:05.546] [INFO] response - events list : [object Object],[object Object],[object Object],[object Object]
+[2021-05-01T23:37:18.325] [INFO] request - read event with id: 1002
+[2021-05-01T23:37:18.327] [INFO] response - read event success: [object Object]
+[2021-05-01T23:37:30.545] [INFO] request - get venue list
+[2021-05-01T23:37:30.546] [INFO] response - get venue list success: [object Object],[object Object]
+[2021-05-01T23:38:16.818] [INFO] request - update event
+[2021-05-01T23:38:16.823] [INFO] response - update event success: [object Object]
+[2021-05-01T23:38:16.926] [INFO] request - get events list
+[2021-05-01T23:38:16.936] [INFO] response - events list : [object Object],[object Object],[object Object],[object Object]
+[2021-05-01T23:38:17.418] [INFO] request - read event with id: 1002
+[2021-05-01T23:38:17.427] [INFO] response - read event success: [object Object]
+[2021-05-01T23:38:23.766] [INFO] request - delete event
+[2021-05-01T23:38:23.772] [INFO] response - delete event success: [object Object]
+[2021-05-01T23:38:24.117] [INFO] request - read event with id: 1002
+[2021-05-01T23:38:24.119] [INFO] response - read event success: [object Object]
+[2021-05-01T23:38:28.229] [INFO] request - get events list
+[2021-05-01T23:38:28.231] [INFO] response - events list : [object Object],[object Object],[object Object],[object Object]
+[2021-05-01T23:38:43.196] [INFO] request - get events list
+[2021-05-01T23:38:43.198] [INFO] response - events list : [object Object],[object Object],[object Object],[object Object]
+[2021-05-01T23:38:52.645] [INFO] request - get events list
+[2021-05-01T23:38:52.649] [INFO] response - events list : [object Object],[object Object],[object Object],[object Object]
+[2021-05-01T23:38:57.621] [INFO] request - get events list
+[2021-05-01T23:38:57.627] [INFO] response - events list : [object Object],[object Object],[object Object],[object Object]
+[2021-05-01T23:45:00.456] [INFO] request - get venue list
+[2021-05-01T23:45:00.458] [INFO] response - get venue list success: [object Object],[object Object]
